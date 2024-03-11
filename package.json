@@ -1,6 +1,6 @@
 {
-  "name": "mishartcl", 
-  "version": "1.0.0", 
+  "name": "mishartcl",
+  "version": "1.0.2",
   "description": "mishartclbobr",
   "main": "./src/index.js",
   "scripts": {
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/yerf1337/mishartcl"
   },
   "keywords": [
-    "", 
+    "",
     "",
     ""
   ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "billymoor-graph-ql-second": "^1.0.5"
+  }
 }
