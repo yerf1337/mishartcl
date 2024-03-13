@@ -1,6 +1,6 @@
 {
   "name": "mishartcl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "mishartclbobr",
   "main": "./src/index.js",
   "scripts": {
