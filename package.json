@@ -1,6 +1,6 @@
 {
   "name": "mishartcl",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "mishartclbobr",
   "main": "./src/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "",
     ""
   ],
-  "author": "",
+  "author": "mynamemishauknowmenow))",
   "license": "MIT",
   "dependencies": {
     "billymoor-graph-ql-second": "^1.0.5"
